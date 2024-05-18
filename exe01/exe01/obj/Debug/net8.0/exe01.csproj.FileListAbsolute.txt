@@ -1,0 +1,14 @@
+C:\Users\heull\Downloads\exe01\exe01\bin\Debug\net8.0\exe01.exe
+C:\Users\heull\Downloads\exe01\exe01\bin\Debug\net8.0\exe01.deps.json
+C:\Users\heull\Downloads\exe01\exe01\bin\Debug\net8.0\exe01.runtimeconfig.json
+C:\Users\heull\Downloads\exe01\exe01\bin\Debug\net8.0\exe01.dll
+C:\Users\heull\Downloads\exe01\exe01\bin\Debug\net8.0\exe01.pdb
+C:\Users\heull\Downloads\exe01\exe01\obj\Debug\net8.0\exe01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heull\Downloads\exe01\exe01\obj\Debug\net8.0\exe01.AssemblyInfoInputs.cache
+C:\Users\heull\Downloads\exe01\exe01\obj\Debug\net8.0\exe01.AssemblyInfo.cs
+C:\Users\heull\Downloads\exe01\exe01\obj\Debug\net8.0\exe01.csproj.CoreCompileInputs.cache
+C:\Users\heull\Downloads\exe01\exe01\obj\Debug\net8.0\exe01.dll
+C:\Users\heull\Downloads\exe01\exe01\obj\Debug\net8.0\refint\exe01.dll
+C:\Users\heull\Downloads\exe01\exe01\obj\Debug\net8.0\exe01.pdb
+C:\Users\heull\Downloads\exe01\exe01\obj\Debug\net8.0\exe01.genruntimeconfig.cache
+C:\Users\heull\Downloads\exe01\exe01\obj\Debug\net8.0\ref\exe01.dll
